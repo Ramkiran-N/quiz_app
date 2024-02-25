@@ -1,0 +1,17 @@
+.signup{
+    background: rgb(255,21,218);
+    background: linear-gradient(90deg, rgba(255,21,218,1) 0%, rgba(147,56,215,1) 100%);
+}
+.signup>div>div{
+    background-color: #eff0f1;
+}
+.login,.bg-q-gradient{
+    background: rgb(11,16,143);
+    background: linear-gradient(90deg, rgba(11,16,143,1) 0%, rgba(181,56,215,1) 100%);
+}
+.options,.bg-quiz{
+    background-color: #38729d;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
